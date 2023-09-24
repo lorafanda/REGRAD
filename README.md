@@ -2,10 +2,10 @@
 Reaching and GRAsping at different Depths (ReGraD) experiment scripts and executables.
 
 For questions regarding the code/executable: 
-Lora Fanda, lorafanda7@gmail.com
+- Lora Fanda, lorafanda7@gmail.com
 
 For questions regarding the study, contact the main authors at: 
-**LINK**
+- **LINK**
 
 
 # Instructions: Using the experiment
