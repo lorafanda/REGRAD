@@ -1,9 +1,11 @@
 # REGRAD
 Reaching and GRAsping at different Depths (ReGraD) experiment scripts and executables.
+
 For questions regarding the code/executable: 
 Lora Fanda, lorafanda7@gmail.com
-For questions regarding the study, contact the main authors at: 
 
+For questions regarding the study, contact the main authors at: 
+**LINK**
 
 
 # Instructions: Using the experiment
@@ -16,7 +18,9 @@ The aim of this setup was to make the use of the experiment simple and fool-proo
 - Double-click the "ReGrad_MotorTask.exe" file and you are set!
 
 ## Getting dirty with the code
-We are making available the scripts used to run the experiment and to make the executables. in the ReGrad_Motor folder, you will find the ReGrad_MotorTask.py file which is the scipt used for running the experiments. The requirements file includes *some* libraries needed to run the experiment to help you get started. It is likely that, due to depreciations and other library changes, you will need to suffer the installation process. Or just use the executable file instead! ;)
+We are making the scripts used to run the experiment and the executables available here. In the ReGrad_Motor folder, you will find the ReGrad_MotorTask.py file which is the script used for running the experiments. The requirements file includes *some* libraries needed to run the experiment to help you get started. It is likely that, due to depreciations and other library changes, you will need to suffer the installation process. 
+
+Or use the executable file instead! ;)
 
 # Links: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10190050/
