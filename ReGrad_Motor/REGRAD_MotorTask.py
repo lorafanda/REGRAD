@@ -227,9 +227,9 @@ if Exp:
         if FirstCondition=='ND':
             IntroFile= os.path.join(folder_path, 'Slide7.png')
         elif FirstCondition == "BI":
-            IntroFile= os.path.join(folder_path, folder_path,'Slide8.png')
+            IntroFile= os.path.join(folder_path,'Slide8.png')
         else:
-            IntroFile= os.path.join(folder_path, folder_path,'Slide6.png')
+            IntroFile= os.path.join(folder_path,'Slide6.png')
 
         # loading the instructions if the image does not depend on the condition
         #IntroFile = os.path.join(folder_path, 'instructionscreen_amblyopic.png')
