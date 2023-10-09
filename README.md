@@ -1,5 +1,6 @@
 # REGRAD
 REaching and GRAsping at different Depths (ReGraD) experiment scripts and executables.
+https://zenodo.org/record/8413228
 
 For questions regarding the code/executable: 
 - Lora Fanda, lorafanda7@gmail.com
@@ -10,6 +11,7 @@ For questions regarding the study, contact the main authors at:
 
 # Instructions: Using the experiment
 ## Simple and fool-proof setup
+The full setup is found at https://zenodo.org/record/8413228.
 The aim of this setup was to make the use of the experiment simple and fool-proof. For this reason, we implemented an executable file that is script-independent. If you would like to try this approach, the steps are simple
 
 - Download the ReGrad_Motor folder onto your local (Windows) computer.
