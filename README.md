@@ -1,5 +1,5 @@
 # REGRAD
-Reaching and GRAsping at different Depths (ReGraD) experiment scripts and executables.
+REaching and GRAsping at different Depths (ReGraD) experiment scripts and executables.
 
 For questions regarding the code/executable: 
 - Lora Fanda, lorafanda7@gmail.com
@@ -13,7 +13,7 @@ For questions regarding the study, contact the main authors at:
 The aim of this setup was to make the use of the experiment simple and fool-proof. For this reason, we implemented an executable file that is script-independent. If you would like to try this approach, the steps are simple
 
 - Download the ReGrad_Motor folder onto your local (Windows) computer.
-- In the following link, download the executable file named "ReGrad_MotorTask.exe"
+- In the following link (https://zenodo.org/record/8413228), download the executable file named "ReGrad_MotorTask.exe"
 - Save the "ReGrad_MotorTask.exe" in the folder "ReGrad_MotorTask" without changing the structuring of the folder
 - Double-click the "ReGrad_MotorTask.exe" file and you are set!
 
